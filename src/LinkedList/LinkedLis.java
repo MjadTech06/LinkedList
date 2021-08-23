@@ -11,7 +11,7 @@ import java.util.*;
 
 /**
  *
- * @author CYCHRIZ
+ * @author MjadTech06
  */
 public class LinkedLis {
 
